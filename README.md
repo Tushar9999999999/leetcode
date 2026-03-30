@@ -1,6 +1,6 @@
 # LeetCode Solutions — @Tushar9999999999
 
-> Synced automatically · Repository: `neetcode-submissions-uciqtq31`
+> Synced automatically
 
 ---
 
